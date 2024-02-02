@@ -1,0 +1,7 @@
+env/
+collected_static/
+*.pyc
+__pycache__/
+db.sqlite3
+.env
+assets/
